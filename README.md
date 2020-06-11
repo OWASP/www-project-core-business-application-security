@@ -1,8 +1,6 @@
 # Core Business Application Security (CBAS)
 ![](https://img.shields.io/github/forks/No-Monkey-Advisory/CBAS?style=social) ![](https://img.shields.io/github/followers/No-Monkey-Advisory?style=social) ![](https://img.shields.io/github/watchers/No-Monkey-Advisory/CBAS?style=social)
 
-Silverbacks Logo ??
-<!-- <a rel="Silverbacks" href="https://silverbacks.no-monkey.com"><img src="img/nm1.png" width="150"/></a> -->
 
 
 ## Introduction
