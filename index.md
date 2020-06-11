@@ -14,4 +14,4 @@ To allow organizations using enterprise business applications to determine an ac
 
 
 __WATCH THIS SPACE__
-___(Somthing AWESOME is coming)___
+___(Something AWESOME is coming)___
