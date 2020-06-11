@@ -9,14 +9,10 @@ pitch: A very brief, one-line description of your project
 
 ---
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+# Core Business Application Security (CBAS)
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+## Introduction
+To allow organizations using enterprise business applications to determine an achievable, tailored-to approach defining actionable targets and measurable results, with the capability to scale by strengthening people, leveraging processes, and enhancing the use of tools. The Core Business Security Application (CBAS) project is designed to combine different industry standards and expertise from various security professionals to provide a comprehensive framework to align the measures for enterprise application security with the organization's security strategy. As a result, a framework is created to improve the security governance of the use of enterprise application technology.
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
-
-type: code, tool, documentation, or other
+__WATCH THIS AREA FOR MORE SOON!!__
