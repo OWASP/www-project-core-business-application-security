@@ -13,7 +13,7 @@ To get started, download a copy of the _"Security_Aptitude_Analysis"_, _"SAA_Ass
 Assessment requirements:
 - Each assessment must uniquely be identified by an ID number (i.e. 1,2,3...)
 
-![](assets/images/example3.png)
+![](assets/images/example1.png)
 
 - The _"Data"_ sheet inside the assessment should be exported
 to the generic file _"Survey.xlsx"_.
