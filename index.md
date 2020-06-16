@@ -54,24 +54,5 @@ NO MONKEY have come up with these four different security areas to focus the sec
 > - **Customization:** consideration of the customization of core business applications - including change management, custom code, business customizing, legacy interfaces, and add-ons.
 
 
-## Objectives
 
-While there are many enterprise solutions out there, SAP has been proven to dominate the ERP market. With that in mind, the initial CBAS project release focuses on SAP solutions (CBAS-SAP).
 
-The CBAS-SAP objectives and goals are defined in the [Objectives page](https://github.com/NO-MONKEY/CBAS/blob/master/Objectives.md)
-
-## How-To
-
-The HOW-TO file gives an overview on how to start with your assessment and analysis.
-
-## Contribution
-
-See [CONTRIBUTING](https://github.com/NO-MONKEY/CBAS/blob/master/CONTRIBUTING.md) section for more information.    
-
-## Leaders
-- [Waseem Ajrab](mailto:waseem.ajrab@no-monkey.com)
-- [Marco Hammel](mailto:marco.hammel@no-monkey.com)
-
-## License
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
-<br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
