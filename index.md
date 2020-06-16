@@ -3,9 +3,8 @@
 layout: col-sidebar
 title: OWASP Core Business Application Security
 tags: CBAS
-level: 1
-type: 
-pitch: A very brief, one-line description of your project
+level: 4
+type: documentation
 
 ---
 
