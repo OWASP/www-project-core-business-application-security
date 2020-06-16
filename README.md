@@ -51,15 +51,15 @@ NO MONKEY have come up with these four different security areas to focus the sec
 
 While there are many enterprise solutions out there, SAP has been proven to dominate the ERP market. With that in mind, the initial CBAS project release focuses on SAP solutions (CBAS-SAP).
 
-The CBAS-SAP objectives and goals are defined in the [Objectives page](Objectives.md)
+The CBAS-SAP objectives and goals are defined in the [Objectives page](https://github.com/NO-MONKEY/CBAS/blob/master/Objectives.md)
 
 ## How-To
 
-The [HOW-TO](HOW_TO.md) file gives an overview on how to start with your assessment and analysis.
+The [HOW-TO](tab_How-To.md) file gives an overview on how to start with your assessment and analysis.
 
 ## Contribution
 
-See [CONTRIBUTING](CONTRIBUTING.md) section for more information.    
+See [CONTRIBUTING](https://github.com/NO-MONKEY/CBAS/blob/master/CONTRIBUTING.md) section for more information.    
 
 ## Leaders
 - [Waseem Ajrab](mailto:waseem.ajrab@no-monkey.com)
