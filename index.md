@@ -33,7 +33,7 @@ Even though there are numerous benefits that these solutions have, security thre
 
 ## NO MONKEY Security Matrix
 
-The NO MONKEY Security Matrix, combines elements of the security operational functions, defined by NIST, and IPAC model, created by NO MONKEY and explained below, into a functional graph. The Security Matrix serves as a starting point to:
+The NO MONKEY Security Matrix, combines elements of the security operational functions, defined by NIST, and IPAC model, created by NO MONKEY and explained below, into a functional graph. The Security Matrix serves as a starting point to
 
 - Visually show what areas within an organization can be improved
 - Identify responsibility and knowledge gaps that are aligned to the areas of the Security Matrix
