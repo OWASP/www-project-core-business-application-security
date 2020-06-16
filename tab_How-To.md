@@ -1,9 +1,10 @@
 ---
 title: How-To
+displaytext: How To
 layout:  null
 tab: true
 order: 2
-tags: CBAS
+tags: cbas
 ---
 
 # Security Aptitude Analysis - How To
