@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Core Business Application Security
-tags: CBAS
+tags: cbas
 level: 4
 type: documentation
 
