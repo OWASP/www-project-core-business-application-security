@@ -10,7 +10,7 @@ tags: cbas
 # Objectives
 
 |Version|Date|Author|
-|:--|:--|:--|
+
 |V1.0|01/06/2020|Waseem Ajrab|
 
 The success criteria of each objective is identified by the completion of the goals associated to a specific objective.
