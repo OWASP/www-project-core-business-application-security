@@ -8,7 +8,7 @@ tags: example-tag
 ---
 **"The more the survey takers are, the better the results and analysis become to understand the gap areas within your organization"**
 
-To get started, download a copy of the _"Security_Aptitude_Analysis"_, _"SAA_Assessment"_ and _"Survey"_ documents from the [Analysis folder](https://github.com/NO-MONKEY/CBAS/tree/master/Analysis)
+To get started, download a copy of the _"Security_Aptitude_Analysis"_, _"SAA_Assessment"_ and _"Survey"_ documents from the [Analysis folder](https://github.com/NO-MONKEY/CBAS/tree/master/Analysis) or the [Downloads tab](https://owasp.org/www-project-core-business-application-security/#div-downloads)
 
 Assessment requirements:
 - Each assessment must uniquely be identified by an ID number (i.e. 1,2,3...)
