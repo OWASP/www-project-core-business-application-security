@@ -1,9 +1,10 @@
 ---
 title: Objectives
+displaytext: Objectives
 layout:  null
 tab: true
-order: 1
-tags: CBAS
+order: 3
+tags: cbas
 ---
 
 # Objectives
