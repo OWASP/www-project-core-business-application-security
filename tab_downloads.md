@@ -1,5 +1,5 @@
 ---
-title: "How To"
+title: Downloads
 layout:  null
 tab: true
 order: 1
