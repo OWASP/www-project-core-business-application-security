@@ -31,7 +31,7 @@ The NO MONKEY Security Matrix, combines elements of the security operational fun
 - Visually show what areas within an organization can be improved
 - Identify responsibility and knowledge gaps that are aligned to the areas of the Security Matrix
 
-![](img/NM-Matrix.png)
+![](assets/images/NM-Matrix.png)
 
 
 ### IPAC model
