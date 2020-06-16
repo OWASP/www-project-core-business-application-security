@@ -1,5 +1,5 @@
 ---
-title: Example
+title: Supporters
 layout:  null
 tab: true
 order: 1
