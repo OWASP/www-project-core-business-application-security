@@ -7,3 +7,9 @@
 ### Project Repository
 * [Github Repo](https://github.com/NO-MONKEY/CBAS)
 
+### Change Log
+* [changes](#)
+
+### Downloads or Social Links
+* [Download](#)
+* [Meetup](#)
