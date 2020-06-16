@@ -3,7 +3,7 @@ title: Getting_started
 displaytext: Getting Started
 layout:  null
 tab: true
-order: 2
+order: 1
 tags: example-tag
 ---
 **"The more the survey takers are, the better the results and analysis become to understand the gap areas within your organization"**
