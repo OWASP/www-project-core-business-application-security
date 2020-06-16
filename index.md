@@ -62,7 +62,7 @@ The CBAS-SAP objectives and goals are defined in the [Objectives page](https://g
 
 ## How-To
 
-The [HOW-TO](HOW_TO.md) file gives an overview on how to start with your assessment and analysis.
+The [HOW-TO](tab_howto.md) file gives an overview on how to start with your assessment and analysis.
 
 ## Contribution
 
