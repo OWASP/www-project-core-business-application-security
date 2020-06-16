@@ -60,7 +60,7 @@ The CBAS-SAP objectives and goals are defined in the [Objectives page](https://g
 
 ## How-To
 
-The [HOW-TO](https://github.com/NO-MONKEY/CBAS/blob/master/HOW_TO.md) file gives an overview on how to start with your assessment and analysis.
+The [HOW-TO](https://github.com/NO-MONKEY/CBAS/blob/master/HOW_TO.md) page or the [Getting Started](https://owasp.org/www-project-core-business-application-security/#div-getting_started) gives an overview on how to start with your assessment and analysis.
 
 ## Contribution
 
