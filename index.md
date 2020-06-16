@@ -16,7 +16,7 @@ To allow organizations using enterprise business applications to determine an ac
 
 
 ## Background
-Core business applications or enterprise business applications are beneficial to organizations in several ways. Some of these benefits include:
+Core business applications or enterprise business applications are beneficial to organizations in several ways. Some of these benefits include
 
 > - Combining different business processes under one solution
 > - Improving business performance
@@ -25,7 +25,7 @@ Core business applications or enterprise business applications are beneficial to
 > - Easier collaboration between different organizational teams
 > - Centralized data
 
-Even though there are numerous benefits that these solutions have, security threats have not decreased. Maintaining, implementing, and deploying security controls and/or information security standards around such solutions is still facing challenges. Some of these challenges include:
+Even though there are numerous benefits that these solutions have, security threats have not decreased. Maintaining, implementing, and deploying security controls and/or information security standards around such solutions is still facing challenges. Some of these challenges include
 
 > - Little to no understanding of the solutions in place
 > - Security professionals not involved in the initial phases of deploying and implementing such solutions
@@ -43,7 +43,7 @@ The NO MONKEY Security Matrix, combines elements of the security operational fun
 
 ### IPAC model
 
-NO MONKEY have come up with these four different security areas to focus the security topics to a core business application. The areas are:
+NO MONKEY have come up with these four different security areas to focus the security topics to a core business application. The areas are
 
 
 
