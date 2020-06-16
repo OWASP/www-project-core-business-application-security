@@ -51,3 +51,21 @@ NO MONKEY have come up with these four different security areas to focus the sec
 > - **Platform:** consideration of the vulnerabilities, hardening, and configuration of the core business applications. Includes the review of security features and weaknesses in the software's operations, setup, and security management.
 > - **Access:** consideration of access control and user authorizations measures and methodologies of core business applications.
 > - **Customization:** consideration of the customization of core business applications - including change management, custom code, business customizing, legacy interfaces, and add-ons.
+
+## Objectives
+
+While there are many enterprise solutions out there, SAP has been proven to dominate the ERP market. With that in mind, the initial CBAS project release focuses on SAP solutions (CBAS-SAP).
+
+The CBAS-SAP objectives and goals are defined in the [Objectives page](https://github.com/NO-MONKEY/CBAS/blob/master/Objectives.md)
+
+## How-To
+
+The [HOW-TO](https://github.com/NO-MONKEY/CBAS/blob/master/HOW_TO.md) file gives an overview on how to start with your assessment and analysis.
+
+## Contribution
+
+See [CONTRIBUTING](https://github.com/NO-MONKEY/CBAS/blob/master/CONTRIBUTING.md) section for more information.    
+
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
+<br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
