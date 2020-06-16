@@ -9,7 +9,7 @@ tags: example-tag
 
 # CBAS Projects RoadMap
 
-Objectives and goals are defined in the [Objectives](Objective_Matrix.md) document. All tasks that enable the success of a project are first raised under the [Projects](https://github.com/NO-MONKEY/CBAS/projects/1) section, and then separated through five different areas:
+Objectives and goals are defined in the [Objectives](https://github.com/NO-MONKEY/CBAS/blob/master/Objectives.md) document. All tasks that enable the success of a project are first raised under the [Projects](https://github.com/NO-MONKEY/CBAS/projects/1) section, and then separated through five different areas:
 > - Plan
 > - Development
 > - Design
