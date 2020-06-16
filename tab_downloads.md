@@ -6,7 +6,7 @@ order: 1
 tags: example-tag
 ---
 
-The below documents provides organizations and individuals with the necessary information on how to conduct the Security Aptitude Analysis (SAA) and perform the required analysis to determine the operational gaps within the NO MONKEY Security matrix
+The below documents provides organizations and individuals with the necessary information on conducting the Security Aptitude Analysis (SAA) and perform the required analysis to determine the operational gaps within the NO MONKEY Security matrix
 
 Required documents:
 - [Security_Aptitude_Analysis.xlsx](https://github.com/NO-MONKEY/CBAS/blob/master/Analysis/Security_Aptitude_Analysis.xlsx)
