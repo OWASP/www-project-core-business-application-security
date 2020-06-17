@@ -8,7 +8,7 @@
 * [Github Repo](https://github.com/NO-MONKEY/CBAS)
 
 ### Join Us
-Anyone interested in supporting, contributing or giving feedback join us in our discord channel
+Anyone interested in supporting, contributing or giving feedback join us in our discord channel.
 
 * [Discord Channel](https://discord.gg/X8ZVSfH)
 
