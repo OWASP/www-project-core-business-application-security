@@ -1,5 +1,5 @@
 ### Core Business Application Security Information
-* [Version 0.1](#)
+* Version 0.1
 
 * <i class="fas fa-book" style="font-size: 1.2em; color:#233e81;"></i><span style="font-size:1.0em;padding-left:12px;">Documentation</span>
 
