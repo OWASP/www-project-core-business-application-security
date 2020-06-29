@@ -12,6 +12,7 @@ pitch: A very brief, one-line description of your project
 <img src="assets/images/logo.png" width="150"/>
 
 __JOIN US ON JULY 1ST, FROM 2PM - 4PM CEST, FOR OUR FIRST WEBINAR THAT DIVES INTO THE PROJECT DETAILS__
+
 __CLICK HERE TO [REGISTER](https://register.gotowebinar.com/register/3101348875785140495)__
 
 ## Introduction
