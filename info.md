@@ -4,7 +4,7 @@
 
 * Version 0.1
 
-* <i class="fas fa-egg" style="font-size: 1.2em;  color:#233e81;"></i>Incubator Project
+* <i class="fas fa-egg" style="font-size: 1.2em;  color:#233e81;"></i><span style="font-size:1.0em;padding-left:12px;">Incubator Project</span>
 * <i class="fas fa-book" style="font-size: 1.2em; color:#233e81;"></i><span style="font-size:1.0em;padding-left:12px;">Documentation</span>
 
 ### Audience 
