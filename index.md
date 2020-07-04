@@ -58,9 +58,13 @@ While there are many enterprise solutions out there, SAP has been proven to domi
 
 The CBAS-SAP objectives and goals are defined in the [Objectives page](https://github.com/NO-MONKEY/CBAS/blob/master/Objectives.md)
 
-## How-To
+## Getting Started
 
-The [HOW-TO](https://github.com/NO-MONKEY/CBAS/blob/master/HOW_TO.md) page or the [Getting Started](https://owasp.org/www-project-core-business-application-security/#div-getting_started) page gives an overview on how to start with your assessment and analysis.
+The below video illustrates how you can get started with the Security Aptitude Assessment and Analysis; which serves as the first part of the CBAS project.
+
+[![Watch the video](img/Example_4.gif)](https://www.youtube.com/watch?v=ZglYrmugTX0)
+
+The [HOW-TO](https://github.com/NO-MONKEY/CBAS/blob/master/HOW_TO.md) page or the [Getting Started](https://owasp.org/www-project-core-business-application-security/#div-getting_started) page also gives an overview on how to start with your assessment and analysis.
 
 ## Contribution
 
