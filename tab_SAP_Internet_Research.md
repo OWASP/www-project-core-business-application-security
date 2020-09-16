@@ -1,5 +1,5 @@
 ---
-title: SAP_Internet_Research
+title: sap_internet_research
 displaytext: SAP Internet Research
 layout:  null
 tab: true
