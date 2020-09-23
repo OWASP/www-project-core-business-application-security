@@ -57,7 +57,7 @@ In order to further test the SAPRouter and determine whether access is allowed o
 
 In order to determine whether the access is allowed or not, use the below command.
 
-> __*$ saprouter -L -H $TARGET *__
+> __*$ saprouter -L -H $TARGET*__
 
 ##### Access denied
 <img src="assets/images/saprouter_denied.png" /><br>
@@ -72,7 +72,7 @@ To automate the process for better detection you can use the python script *info
 
 To run the script use the below syntax:
 >
-> __*$ python inforequest_saprouter_WIN.py $filename_with_ip_addresses *__
+> __*$ python inforequest_saprouter_WIN.py $filename_with_ip_addresses*__
 
 ### SAP RFC Gateway
 
