@@ -84,17 +84,17 @@ SAP RFC Gateway is a gateway service which standalone, or as part of an SAP ABAP
 
 If the initial scan has not identified any open ports for the SAP Gateway, you can try to scan with below command specifying the SAP Gateway port if it is not the default one.
 
-> __*$ nmap -sV -R -p 3300 -Pn $TARGET *__
+> __*$ nmap -sV -R -p 3300 -Pn $TARGET*__
 
 To automate the process for better detection you can use the files found in the 3300 zip file found [here](assets/SAP_Research_Tools). Using the python script found in the files, read the SAP info where possible (from windows machine and adjust in script sysnr=XX to correct system number):
 
 >
-> __*$ py.exe SAPinfo_WIN_v2.py $filename_with_ip_addresses *__
+> __*$ py.exe SAPinfo_WIN_v2.py $filename_with_ip_addresses*__
 
 To check whether the gateway is vulnerable use the Gateway_Scanner_RESEARCH_V0.1.py file found [here](assets/SAP_Research_Tools)
 
 >
-> __*$ py.exe Gateway_Scanner_RESEARCH_V0.1.py $filename_with_ip_addresses *__
+> __*$ py.exe Gateway_Scanner_RESEARCH_V0.1.py $filename_with_ip_addresses*__
 
 
 ### SAP Internet Graphic Server
@@ -107,7 +107,7 @@ SAP Internet Graphic Server (IGS) provides services to generate web graphics. It
 
 If the initial scan has not identified any open ports for the SAP Internet Graphic Server, you can try to scan with below command specifying the SAP Internet Graphic Server port if it is not the default one.
 
-> __*$ nmap -sV -R -p 40080 -Pn $TARGET *__
+> __*$ nmap -sV -R -p 40080 -Pn $TARGET*__
 
 ### SAP Message Server Internal Port
 
@@ -119,7 +119,7 @@ SAP Message Server Internal Port provides cluster management services between th
 
 If the initial scan has not identified any open ports for the SAP Message Server Internal, you can try to scan with below command specifying the SAP Message Server Internal port if it is not the default one.
 
-> __*$ nmap -sV -R -p 3900 -Pn $TARGET *__
+> __*$ nmap -sV -R -p 3900 -Pn $TARGET*__
 
 ### HANA Database
 
