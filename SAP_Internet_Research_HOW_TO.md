@@ -1,6 +1,6 @@
 ---
 title: SAP_Internet_Research
-displaytext: HOW TO - SAP Internet Research 
+displaytext: SAP Internet Research How To
 layout:  null
 tab: true
 order: 7
