@@ -14,7 +14,7 @@ pitch: A very brief, one-line description of your project
 ---
 __We are happy to announce a new project has been added to support the CBAS project. With the contribution of [Joris van de Vis](mailto:joris@protect4s.com), SAP Internet Research project aims to help organizations and security professionals to identify and discover open SAP services facing the internet. This allows individuals to further test these services for any potential threats that might affect their SAP applications.__
 
-[CHECK IT OUT](https://github.com/NO-MONKEY/CBAS/blob/master/SAP_Internet_Research.md)
+[CHECK IT OUT](https://owasp.org/www-project-core-business-application-security/#div-sap_internet_research_how_to)
 
 ---
 
