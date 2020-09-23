@@ -131,4 +131,4 @@ The HANA Database SQL client port of the systems index server provides access to
 
 If the initial scan has not identified any open ports for the HANA Database, you can try to scan with below command specifying the HANA Database port if it is not the default one.
 
-> __*$ nmap -sV -R -p 30015 -Pn $TARGET *__
+> __*$ nmap -sV -R -p 30015 -Pn $TARGET*__
