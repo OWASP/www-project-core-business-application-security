@@ -3,10 +3,14 @@ title: Getting_started
 displaytext: Getting Started
 layout:  null
 tab: true
-order: 2
+order: 1
 tags: example-tag
 ---
 **"The more the survey takers are, the better the results and analysis become to understand the gap areas within your organization"**
+
+The below video illustrates how you can get started with the Security Aptitude Assessment and Analysis.
+
+[![Getting Started](assets/images/Example_4.gif)](https://www.youtube.com/watch?v=ZglYrmugTX0)
 
 To get started, download a copy of the _"Security_Aptitude_Analysis"_, _"SAA_Assessment"_ and _"Survey"_ documents from the [Analysis folder](https://github.com/NO-MONKEY/CBAS/tree/master/Analysis) or the [Downloads tab](https://owasp.org/www-project-core-business-application-security/#div-downloads)
 

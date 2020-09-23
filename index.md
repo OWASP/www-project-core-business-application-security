@@ -3,13 +3,21 @@
 layout: col-sidebar
 title: OWASP Core Business Application Security
 tags: example-tag
-level: 1
+level: 2
 type: 
 pitch: A very brief, one-line description of your project
 
 ---
 
 <img src="assets/images/logo.png" width="150"/>
+
+---
+__We are happy to announce a new project has been added to support the CBAS project. With the contribution of [Joris van de Vis](mailto:joris@protect4s.com), SAP Internet Research project aims to help organizations and security professionals to identify and discover open SAP services facing the internet. This allows individuals to further test these services for any potential threats that might affect their SAP applications.__
+
+[CHECK IT OUT](https://github.com/NO-MONKEY/CBAS/blob/master/SAP_Internet_Research.md)
+
+---
+
 
 ## Introduction
 To allow organizations using enterprise business applications to determine an achievable, tailored-to approach defining actionable targets and measurable results, with the capability to scale by strengthening people, leveraging processes, and enhancing the use of tools. The Core Business Security Application (CBAS) project is designed to combine different industry standards and expertise from various security professionals to provide a comprehensive framework to align the measures for enterprise application security with the organization's security strategy. As a result, a framework is created to improve the security governance of the use of enterprise application technology.
@@ -58,9 +66,13 @@ While there are many enterprise solutions out there, SAP has been proven to domi
 
 The CBAS-SAP objectives and goals are defined in the [Objectives page](https://github.com/NO-MONKEY/CBAS/blob/master/Objectives.md)
 
-## How-To
+## Getting Started
 
-The [HOW-TO](https://github.com/NO-MONKEY/CBAS/blob/master/HOW_TO.md) page or the [Getting Started](https://owasp.org/www-project-core-business-application-security/#div-getting_started) page gives an overview on how to start with your assessment and analysis.
+The below video illustrates how you can get started with the Security Aptitude Assessment and Analysis; which serves as the first part of the CBAS project.
+
+[![Getting Started](assets/images/Example_4.gif)](https://www.youtube.com/watch?v=ZglYrmugTX0)
+
+The [HOW-TO](https://github.com/NO-MONKEY/CBAS/blob/master/HOW_TO.md) page or the [Getting Started](https://owasp.org/www-project-core-business-application-security/#div-getting_started) page also gives an overview on how to start with your assessment and analysis.
 
 ## Contribution
 
