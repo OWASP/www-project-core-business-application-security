@@ -11,10 +11,10 @@ With the help and support from the security community, we are continuously addin
 
 The projects and tools support the different areas addressed in the CBAS project. The structure for the CBAS project is as follows:
 
-> - CBAS-SAP
->  > - SAP Security Aptitude Assessment
->  >
->  > - SAP Internet Research 
+├ __CBAS-SAP__                    
+   ├── *[Security Aptitude Assessment](https://github.com/NO-MONKEY/CBAS-SAP-SecurityAptitudeAssessment) (SAA)*     
+   ├── *[Security Maturity Model](https://github.com/NO-MONKEY/CBAS-SAP-SecurityMaturityModel) (SMM)*         
+   └── *[SAP Internet Research](https://github.com/NO-MONKEY/CBAS-SAPInternetResearch)*
 
 *Anyone is welcome to contribute with their projects and tools to enhance the different areas of the CBAS project; [contact us](cbas@advisory.no-monkey.com) and tell us more*
 
