@@ -1,5 +1,5 @@
 ---
-title: SAA
+title: Saa
 displaytext: Security Aptitude Assessment
 layout: null
 tab: true
