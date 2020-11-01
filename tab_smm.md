@@ -1,5 +1,5 @@
 ---
-title: Smm
+title: smm
 displaytext: Security Maturity Model
 layout: null
 tab: true
