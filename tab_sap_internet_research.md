@@ -1,7 +1,7 @@
 ---
 title: SAP_Internet_Research
 displaytext: SAP Internet Research
-layout:  null
+layout: null
 tab: true
 order: 4
 tags: example-tag

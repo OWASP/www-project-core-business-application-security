@@ -1,6 +1,6 @@
 ---
 title: Acknowledgments
-layout:  null
+layout: null
 tab: true
 order: 6
 tags: example-tag

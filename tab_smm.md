@@ -1,7 +1,7 @@
 ---
-title: SMM
+title: Smm
 displaytext: Security Maturity Model
-layout:  null
+layout: null
 tab: true
 order: 3
 tags: example-tag

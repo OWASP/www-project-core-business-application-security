@@ -1,5 +1,5 @@
 ---
-title: NMSM
+title: Nmsm
 displaytext: NO MONKEY Security Matrix
 layout: null
 tab: true

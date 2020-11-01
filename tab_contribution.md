@@ -1,6 +1,6 @@
 ---
 title: Contributing
-layout:  null
+layout: null
 tab: true
 order: 5
 tags: example-tag
