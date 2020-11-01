@@ -3,7 +3,7 @@ title: Saa
 displaytext: Security Aptitude Assessment
 layout: null
 tab: true
-order: 2
+order: 3
 tags: example-tag
 ---
 # Security Aptitude Assessment and Analysis
