@@ -1,5 +1,5 @@
 ---
-title: Contribution
+title: Contributing
 layout:  null
 tab: true
 order: 5
