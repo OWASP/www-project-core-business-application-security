@@ -2,7 +2,7 @@
 layout: col-sidebar
 title: OWASP Core Business Application Security
 tags: example-tag
-level: 2
+level: 4
 type: documentation
 pitch: A very brief, one-line description of your project
 ---
