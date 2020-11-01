@@ -2,7 +2,7 @@
 title: Acknowledgments
 layout:  null
 tab: true
-order: 8
+order: 6
 tags: example-tag
 ---
 
@@ -32,4 +32,4 @@ The SAP Internet Research project aims to help organization and security profess
 
 - Joris van de Vis - [Protect4s](https://protect4s.com/) - Project Owner
 - Waseem Ajrab - [NO MONKEY](https://www.no-monkey.com/) - Contributor
-- Marco Hammel - [NO MONEKY](https://www.no-monkey.com/) - Contributor
+- Marco Hammel - [NO MONKEY](https://www.no-monkey.com/) - Contributor
