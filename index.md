@@ -7,8 +7,6 @@ type:
 pitch: A very brief, one-line description of your project
 ---
 
-# Core Business Application Security (CBAS)
-
 <img src="assets/images/logo.png" width="150"/>
 
 ## CBAS Project Structure
