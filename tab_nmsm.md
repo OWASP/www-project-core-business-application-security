@@ -1,6 +1,6 @@
 ---
 title: Nmsm
-displaytext: Security Matrix
+displaytext: NO MONKEY Security Matrix
 layout: null
 tab: true
 order: 1
