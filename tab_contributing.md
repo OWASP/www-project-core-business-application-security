@@ -2,7 +2,7 @@
 title: Contributing
 layout: null
 tab: true
-order: 1
+order: 5
 tags: example-tag
 ---
 
