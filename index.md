@@ -1,7 +1,7 @@
 ---
 layout: col-sidebar
 title: OWASP Core Business Application Security
-tags: example-tag
+tags: cbas
 level: 2
 pitch: A very brief, one-line description of your project
 ---
