@@ -1,6 +1,5 @@
 ---
 title: smm
-displaytext: Security Maturity Model
 layout: null
 tab: true
 order: 3
