@@ -17,5 +17,5 @@ Required documents:
 
 - [Survey.xlsx](https://github.com/NO-MONKEY/CBAS/blob/master/Analysis/Survey.xlsx)
   - This document will be used to combine all assessment results
-  
+
 The [How-To](https://github.com/NO-MONKEY/CBAS/blob/master/HOW_TO.md) page or the [Getting Started](https://owasp.org/www-project-core-business-application-security/#div-getting_started) page will help you with getting started with the analysis and assessment.
