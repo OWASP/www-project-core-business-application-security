@@ -1,10 +1,10 @@
 ---
-title: Saa
+title: Security_Aptitude_Assessment
 displaytext: Security Aptitude Assessment
 layout: null
 tab: true
 order: 2
-tags: example-tag
+tags: cbas
 ---
 # Security Aptitude Assessment and Analysis
 
