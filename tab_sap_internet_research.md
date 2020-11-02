@@ -4,7 +4,7 @@ displaytext: SAP Internet Research
 layout: null
 tab: true
 order: 4
-tags: example-tag
+tags: cbas
 ---
 
 # SAP Internet Research
