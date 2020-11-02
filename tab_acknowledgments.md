@@ -23,7 +23,7 @@ The projects and tools support the different areas addressed in the CBAS project
 ### Core Business Application Security Project
 
 - Waseem Ajrab - [NO MONKEY](https://www.no-monkey.com/) - Project Leader
-- Marco Hammel - [NO MONEKY](https://www.no-monkey.com/) - Project Leader
+- Marco Hammel - [NO MONKEY](https://www.no-monkey.com/) - Project Leader
 
 
 ### SAP Internet Research Project
