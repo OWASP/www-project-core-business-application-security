@@ -1,10 +1,10 @@
 ---
-title: Smm
+title: Security_Maturity_Model
 displaytext: Security Maturity Model
 layout: null
 tab: true
 order: 3
-tags: example-tag
+tags: cbas
 ---
 
 # SAP Security Maturity Model
