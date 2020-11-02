@@ -1,17 +1,19 @@
 ---
-title: Contribution
-layout:  null
+title: Contributing
+layout: null
 tab: true
-order: 4
+order: 5
 tags: example-tag
 ---
 
 # Areas of Contribution
-We have different areas that we love for you to help us with. You don't need to be a security expert to help us out. If you enjoy developing new tools, designing pages, creating documentation, or even translating, we want you!
+We have different areas and projects that we love for you to help us with. You don't need to be a security expert to help us out. If you enjoy developing new tools, designing pages, creating documentation, or even translating, we want you!
 
-We are adopting an agile methodology while creating the projects' roadmap and developing the CBAS project. The [Roadmap](https://owasp.org/www-project-core-business-application-security/#div-roadmap) page will give you a clear idea of how we plan to develop our first area of concentration, CBAS-SAP, and the [Project map](https://github.com/NO-MONKEY/CBAS/projects/1) might also help you decide.
+We have created and adopted different projects that cover people, processes, and technologies when securing SAP applications. Contribution to one or all of these projects is welcome.
 
-If you still want to help but not sure how, contact us and we are happy to discuss it
+├ __CBAS-SAP__ *(Project structure)*                     
+   ├── *[Security Aptitude Assessment](https://github.com/NO-MONKEY/CBAS-SAP-SecurityAptitudeAssessment) (SAA)*     
+   ├── *[Security Maturity Model](https://github.com/NO-MONKEY/CBAS-SAP-SecurityMaturityModel) (SMM)*         
+   └── *[SAP Internet Research](https://github.com/NO-MONKEY/CBAS-SAPInternetResearch)*
 
-- [Waseem Ajrab](mailto:waseem.ajrab@no-monkey.com)
-- [Marco Hammel](mailto:marco.hammel@no-monkey.com)
+If you still want to help and contribute but not sure how, [contact us](mailto:cbas@advisory.no-monkey.com) and we are happy to discuss it.
