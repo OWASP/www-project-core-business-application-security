@@ -2,7 +2,7 @@
 title: Acknowledgments
 layout: null
 tab: true
-order: 6
+order: 2
 tags: example-tag
 ---
 
