@@ -11,7 +11,7 @@ tags: cbas
 
 The NO MONKEY Security Matrix combines elements of the security operational functions, defined by NIST, and IPAC model, created by NO MONKEY and explained below, into a functional graph.
 
-![](assets/images/NM-Matrix.png)
+![](assets/images/NM_Matrix2.jpeg)
 
 
 ## IPAC model
