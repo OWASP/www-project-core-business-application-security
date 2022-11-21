@@ -18,7 +18,7 @@ The projects and tools support the different areas addressed in the CBAS project
    └── *[SAP Internet Research](https://github.com/NO-MONKEY/CBAS-SAPInternetResearch)*
 
 
-*Anyone is welcome to contribute with their projects and tools to enhance the different areas of the CBAS project; [contact us](cbas@advisory.no-monkey.com) and tell us more*
+*Anyone is welcome to contribute with their projects and tools to enhance the different areas of the CBAS project; [contact us](mailto:cbas@advisory.no-monkey.com) and tell us more*
 
 ### Core Business Application Security Project
 
