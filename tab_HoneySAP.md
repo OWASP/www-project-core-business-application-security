@@ -1,5 +1,5 @@
 ---
-title: HoneySAP
+title: Honeysap
 displaytext: HoneySAP
 layout: null
 tab: true
