@@ -63,6 +63,13 @@ With the contribution of [Joris van de Vis](mailto:joris@protect4s.com), the SAP
 
 [CHECK IT OUT](https://github.com/NO-MONKEY/CBAS-SAPInternetResearch)
 
+## HoneySAP: SAP low-interaction honeypot
+
+HoneySAP is a low-interaction research-focused honeypot specific for SAP services. It's aimed at learn the techniques and motivations behind attacks against SAP systems.
+
+[CHECK IT OUT](https://github.com/OWASP/HoneySAP)
+
+
 ## Contribution
 
 See [CONTRIBUTING](https://github.com/NO-MONKEY/CBAS-SAP/blob/master/CONTRIBUTING.md) section for more information.    
