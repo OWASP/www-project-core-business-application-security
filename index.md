@@ -69,6 +69,15 @@ HoneySAP is a low-interaction research-focused honeypot specific for SAP service
 
 [CHECK IT OUT](https://github.com/OWASP/HoneySAP)
 
+## pysap - Python library for crafting SAP's network protocols packets
+
+[SAP Netweaver](https://www.sap.com/platform/netweaver/index.epx) and
+[SAP HANA](https://www.sap.com/products/hana.html) are technology platforms for
+building and integrating SAP business applications. Communication between components uses different network protocols and some services and tools make use of custom file formats as well. While some of them are standard and well-known protocols, others are proprietaries and public information is generally not available.
+
+[pysap](https://github.com/OWASP/pysap) is an open source Python 2 library that provides modules for crafting and sending packets using SAP's `NI`, `Diag`, `Enqueue`, `Router`, `MS`, `SNC`, `IGS`, `RFC` and `HDB` protocols. In addition, support for creating and parsing different proprietary file formats is included. The modules are built on top of [Scapy](https://scapy.net/) and are based on information acquired at researching the different protocols, file formats and services.
+
+[CHECK IT OUT](https://github.com/OWASP/pysap)
 
 ## Contribution
 
