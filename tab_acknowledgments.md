@@ -15,8 +15,9 @@ The projects and tools support the different areas addressed in the CBAS project
 ├ __CBAS-SAP__                    
    ├── *[Security Aptitude Assessment](https://github.com/NO-MONKEY/CBAS-SAP-SecurityAptitudeAssessment) (SAA)*     
    ├── *[Security Maturity Model](https://github.com/NO-MONKEY/CBAS-SAP-SecurityMaturityModel) (SMM)*         
-   └── *[SAP Internet Research](https://github.com/NO-MONKEY/CBAS-SAPInternetResearch)*
-
+   ├── *[SAP Internet Research](https://github.com/NO-MONKEY/CBAS-SAPInternetResearch)*
+   ├── *[HoneySAP](https://github.com/OWASP/HoneySAP)*
+   └── *[pysap](https://github.com/OWASP/pysap)*
 
 *Anyone is welcome to contribute with their projects and tools to enhance the different areas of the CBAS project; [contact us](mailto:cbas@advisory.no-monkey.com) and tell us more*
 

@@ -14,8 +14,8 @@ pitch: A very brief, one-line description of your project
       ├── *[Security Aptitude Assessment](#security-aptitude-assessment) (SAA)*     
       ├── *[Security Maturity Model](#security-maturity-model) (SMM)*         
       ├── *[SAP Internet Research](#sap-internet-research)*  
-      ├── *[HoneySAP](#HoneySAP)*            
-      └── *[pysap](#pysap)*
+      ├── *[HoneySAP](#HoneySAP:-SAP-low-interaction-honeypot)*            
+      └── *[pysap](#pysap---Python-library-for-crafting-SAP's-network-protocols-packets)*
 
 ## Introduction
 To allow organizations using enterprise business applications to determine an achievable, tailored-to approach defining actionable targets and measurable results, with the capability to scale by strengthening people, leveraging processes, and enhancing the use of tools. The Core Business Application Security (CBAS) project is designed to combine different industry standards and expertise from various security professionals to provide a comprehensive framework to align enterprise application security measures with the organization's security strategy. As a result, a framework is created to improve the security governance of enterprise application technology.

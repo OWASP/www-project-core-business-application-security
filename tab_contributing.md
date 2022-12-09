@@ -14,6 +14,8 @@ We have created and adopted different projects that cover people, processes, and
 ├ __CBAS-SAP__ *(Project structure)*                     
    ├── *[Security Aptitude Assessment](https://github.com/NO-MONKEY/CBAS-SAP-SecurityAptitudeAssessment) (SAA)*     
    ├── *[Security Maturity Model](https://github.com/NO-MONKEY/CBAS-SAP-SecurityMaturityModel) (SMM)*         
-   └── *[SAP Internet Research](https://github.com/NO-MONKEY/CBAS-SAPInternetResearch)*
+   ├── *[SAP Internet Research](https://github.com/NO-MONKEY/CBAS-SAPInternetResearch)*
+   ├── *[HoneySAP](https://github.com/OWASP/HoneySAP)*
+   └── *[pysap](https://github.com/OWASP/pysap)*
 
 If you still want to help and contribute but not sure how, [contact us](mailto:cbas@advisory.no-monkey.com) and we are happy to discuss it.
