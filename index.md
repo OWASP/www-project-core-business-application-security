@@ -43,7 +43,7 @@ The [NO MONKEY Security Matrix](https://www.no-monkey.com/sap-security-matrix/) 
 
 Benefits and the usage of the security matrix is listed under each project of the CBAS-SAP.
 
-![](assets/images/NM_Matrix.png)
+![](assets/images/NM_Security_Matrix.svg)
 
 [CHECK IT OUT](https://www.no-monkey.com/sap-security-matrix/)   
 
