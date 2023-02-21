@@ -88,10 +88,13 @@ See [CONTRIBUTING](https://github.com/NO-MONKEY/CBAS-SAP/blob/master/CONTRIBUTIN
 ## Leaders
 - [Waseem Ajrab](mailto:cbas@advisory.no-monkey.com)
 - [Marco Hammel](mailto:cbas@advisory.no-monkey.com)
+- [Martin Gallo](mailto:cbas@advisory.no-monkey.com)
 
 ## Contributors
 
 - Joris van de Vis - [SAP Internet Research Project](https://github.com/NO-MONKEY/CBAS-SAPInternetResearch)
+- NO MONKEY GmbH - [NO MONKEY Security Matrix](https://github.com/NO-MONKEY/CBAS-SAP/blob/master/No_MONKEY_Security_Matrix.md)
+- [SecureAuth's Innovation Labs](https://www.secureauth.com/labs/)
 
 ## Communication channel
 
