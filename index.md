@@ -39,13 +39,13 @@ Even though there are numerous benefits that these solutions have, security thre
 
 ## NO MONKEY Security Matrix
 
-The [NO MONKEY Security Matrix](https://github.com/NO-MONKEY/CBAS-SAP/blob/master/No_MONKEY_Security_Matrix.md) is used as a governance tool throughout the different projects under the CBAS-SAP. It combines elements of the security operational functions, defined by NIST, and IPAC model, defined by NO MONKEY, into a functional graph.
+The [NO MONKEY Security Matrix](https://www.no-monkey.com/sap-security-matrix/) is used as a governance tool throughout the different projects under the CBAS-SAP. It combines elements of the security operational functions, defined by NIST, and IPAC model, defined by NO MONKEY, into a functional graph.
 
 Benefits and the usage of the security matrix is listed under each project of the CBAS-SAP.
 
 ![](assets/images/NM_Matrix.png)
 
-[CHECK IT OUT](https://github.com/NO-MONKEY/CBAS-SAP/blob/master/No_MONKEY_Security_Matrix.md)   
+[CHECK IT OUT](https://www.no-monkey.com/sap-security-matrix/)   
 
 ## Security Aptitude Assessment
 
@@ -53,9 +53,9 @@ The CBAS - SAP Security Aptitude Assessment (CBAS-SSAA) project allows organizat
 
 [CHECK IT OUT](https://github.com/NO-MONKEY/CBAS-SAP-SecurityAptitudeAssessment)
 
-## Security Maturity Model
+## SAP Security Verification Standard
 
-The CBAS - SAP Security Maturity Model (CBAS-SSMM) project allows organizations to determine their SAP security posture based on controls used to define a maturity level that organizations can maintain or adapt to. This enables organizations to plan and enhance their security mechanisms when protecting SAP resources.
+The CBAS - SAP Security Verification Standard (CBAS-SSVS) project allows organizations to determine their SAP security posture based on controls used to define a maturity level that organizations can maintain or adapt to. This enables organizations to plan and enhance their security mechanisms when protecting SAP resources.
 
 [CHECK IT OUT](https://github.com/NO-MONKEY/CBAS-SAP-SecurityMaturityModel)
 
@@ -93,7 +93,7 @@ See [CONTRIBUTING](https://github.com/NO-MONKEY/CBAS-SAP/blob/master/CONTRIBUTIN
 ## Contributors
 
 - Joris van de Vis - [SAP Internet Research Project](https://github.com/NO-MONKEY/CBAS-SAPInternetResearch)
-- NO MONKEY GmbH - [NO MONKEY Security Matrix](https://github.com/NO-MONKEY/CBAS-SAP/blob/master/No_MONKEY_Security_Matrix.md)
+- NO MONKEY GmbH - [NO MONKEY Security Matrix](https://www.no-monkey.com/sap-security-matrix/)
 - [SecureAuth's Innovation Labs](https://www.secureauth.com/labs/)
 
 ## Communication channel
