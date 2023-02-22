@@ -1,5 +1,5 @@
 ---
-title: project_updates
+title: newsandevents
 displaytext: News and Events
 layout: null
 tab: true
