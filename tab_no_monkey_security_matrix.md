@@ -11,10 +11,10 @@ tags: cbas
 
 The NO MONKEY Security Matrix combines elements of the security operational functions, defined by NIST, and IPAC model, created by NO MONKEY and explained below, into a functional graph.
 
-![](assets/images/NM_Matrix.png)
+![](assets/images/NM_Security_Matrix.svg)
 
 
-## IPAC model
+## SAP Operational Areas
 
 NO MONKEY has come up with the below four security areas to focus the security topics to a core business application. The areas are:
 
@@ -22,7 +22,7 @@ NO MONKEY has come up with the below four security areas to focus the security t
 >
 > - **Platform:** Focuses on vulnerabilities, hardening, and configuration of the core business applications. It includes reviewing security features and weaknesses in software operations, setup, and security management.
 >
-> - **Access:** Focuses on access control, user authorizations measures, and core business application methodologies.
+> - **Access:** Focuses on access control, user authorizations measures, and methodologies of SAP software.
 >
 > - **Customization:** Focuses on the customization of core business applications, including change management, custom code, business customizing, legacy interfaces, and add-ons.
 
