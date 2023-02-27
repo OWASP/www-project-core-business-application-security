@@ -1,6 +1,6 @@
 ---
 title: Security_Maturity_Model
-displaytext: Security Maturity Model
+displaytext: SAP Security Verification Standard
 layout: null
 tab: true
 order: 3
