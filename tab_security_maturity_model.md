@@ -1,9 +1,9 @@
 ---
-title: Security_Maturity_Model
+title: Security_Verifiction_Standard
 displaytext: SAP Security Verification Standard
 layout: null
 tab: true
-order: 3
+order: 2
 tags: cbas
 ---
 
