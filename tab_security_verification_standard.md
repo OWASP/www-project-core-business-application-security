@@ -1,5 +1,5 @@
 ---
-title: Security_Verifiction_Standard
+title: Security_Verification_Standard
 displaytext: SAP Security Verification Standard
 layout: null
 tab: true
