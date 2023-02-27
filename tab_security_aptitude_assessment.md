@@ -3,7 +3,7 @@ title: Security_Aptitude_Assessment
 displaytext: Security Aptitude Assessment
 layout: null
 tab: true
-order: 4
+order: 5
 tags: cbas
 ---
 # Security Aptitude Assessment and Analysis
