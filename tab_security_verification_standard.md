@@ -7,9 +7,9 @@ order: 2
 tags: cbas
 ---
 
-# SAP Security Maturity Model
+# SAP Security Verification Standard
 
-The CBAS - SAP Security Maturity Model (CBAS-SSMM) project allows organizations to determine their SAP security posture based on controls used to define a maturity level that organizations can maintain or adopt. This enables organizations to plan and enhance their security mechanisms when protecting SAP resources.
+The CBAS - SAP Security Verification Standard (SSVS) project allows organizations to determine their SAP security posture based on controls used to define a baseline level that organizations can maintain and adopt. This enables organizations to plan and enhance their security mechanisms when protecting SAP resources.
 
 
 ## Whats In It For Me (WIIFM)
