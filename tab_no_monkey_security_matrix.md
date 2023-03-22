@@ -37,5 +37,5 @@ The Security Matrix serves as a starting point to:
 Below is a list of projects that benefit from the NO MONKEY Security Matrix:
 
 - [CBAS - Security Aptitude Assessment](https://github.com/NO-MONKEY/CBAS-SAP-SecurityAptitudeAssessment)
-- [CBAS - Security Maturity Model](https://github.com/NO-MONKEY/CBAS-SAP-SecurityMaturityModel)
+- [CBAS - SAP Security Verification Standard](https://github.com/NO-MONKEY/CBAS-SAP-SecurityVerificationStandard)
 - [SAP Internet Research](https://github.com/NO-MONKEY/CBAS-SAPInternetResearch)
