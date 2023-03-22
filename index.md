@@ -47,11 +47,23 @@ Benefits and the usage of the security matrix is listed under each project of th
 
 [CHECK IT OUT](https://www.no-monkey.com/sap-security-matrix/)   
 
+## Security Aptitude Assessment
+
+The CBAS - SAP Security Aptitude Assessment (CBAS-SSAA) project allows organizations to determine the skill and knowledge gaps required to secure SAP implementations in an organization.
+
+[CHECK IT OUT](https://github.com/NO-MONKEY/CBAS-SAP-SecurityAptitudeAssessment)
+
 ## SAP Security Verification Standard
 
 The CBAS - SAP Security Verification Standard (CBAS-SSVS) project allows organizations to determine their SAP security posture based on controls used to define a maturity level that organizations can maintain or adapt to. This enables organizations to plan and enhance their security mechanisms when protecting SAP resources.
 
 [CHECK IT OUT](https://github.com/NO-MONKEY/CBAS-SAP-SecurityMaturityModel)
+
+## SAP Internet Research
+
+With the contribution of [Joris van de Vis](mailto:joris@protect4s.com), the SAP Internet Research project aims to help organizations and security professionals to identify and discover open SAP services facing the internet. This allows individuals to further test these services for any potential threats that might affect their SAP applications.
+
+[CHECK IT OUT](https://github.com/NO-MONKEY/CBAS-SAPInternetResearch)
 
 ## HoneySAP: SAP low-interaction honeypot
 
