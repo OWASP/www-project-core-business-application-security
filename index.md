@@ -10,10 +10,8 @@ pitch: A very brief, one-line description of your project
 
 ## CBAS Project Structure
 
-   ├ __CBAS-SAP__                    
-      ├── *[Security Aptitude Assessment](#security-aptitude-assessment) (SAA)*     
+   ├ __CBAS-SAP__                      
       ├── *[SAP Security Verification Standard](#sap-security-verification-standard) (SMM)*         
-      ├── *[SAP Internet Research](#sap-internet-research)*  
       ├── *[HoneySAP](#honeysap:-sap-low-interaction-honeypot)*            
       └── *[pysap](#pysap---python-library-for-crafting-SAP's-network-protocols-packets)*
 
