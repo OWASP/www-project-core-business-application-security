@@ -74,11 +74,12 @@ building and integrating SAP business applications. Communication between compon
 - [Martin Gallo](mailto:cbas@advisory.no-monkey.com)
 
 
-## Communication channel
+## News and Updates Channels
 
 Anyone interested in supporting, contributing or giving feedback join us in our discord channel.
 
 * [Discord Channel](https://discord.gg/X8ZVSfH)
+* [Slack Channel](https://join.slack.com/share/enQtNTMzNDIwOTAzOTE3NS04NWIwYTQxODIzNmNiMGE1MzU2YWE2MDkyMzNmZDlmOGQ0YWVlNGNhODg4NmIxZDQ5YTMwNjU3ZTY3MDUyYjgz)
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
