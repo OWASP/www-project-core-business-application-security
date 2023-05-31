@@ -14,7 +14,7 @@
 * <i class="fas fa-user-secret" style="font-size: 1.2em; color:#233e81;"></i><span style="font-size:1.0em;padding-left:12px;">Breaker</span>
 
 ### Project Repository
-* [Github Repo](https://github.com/NO-MONKEY/CBAS-SAP)
+* [Github Repo](https://github.com/OWASP/www-project-core-business-application-security/tree/master)
 
 ### Join Us
 Anyone interested in supporting, contributing or giving feedback join us in our discord channel.
