@@ -6,7 +6,7 @@ level: 2
 pitch: A very brief, one-line description of your project
 ---
 
-## CBAS Project Structure
+## OWASP CBAS Project Structure
 <img src="assets/images/OWASP_CBAS_Roadmap.jpg" width=""/>
 
 
