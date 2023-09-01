@@ -10,7 +10,6 @@ pitch: A very brief, one-line description of your project
 <img src="assets/images/OWASP_CBAS_Roadmap.jpg" width=""/>
 
 
-
 ## Introduction
 To allow organizations using enterprise business applications to determine an achievable, tailored-to approach defining actionable targets and measurable results, with the capability to scale by strengthening people, leveraging processes, and enhancing the use of tools. The Core Business Application Security (CBAS) project is designed to combine different industry standards and expertise from various security professionals to provide a comprehensive framework to align enterprise application security measures with the organization's security strategy. As a result, a framework is created to improve the security governance of enterprise application technology.
 
