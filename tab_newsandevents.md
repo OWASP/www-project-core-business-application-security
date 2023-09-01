@@ -9,11 +9,17 @@ tags: cbas
 
 # News
 
-- [October 2022] [SecureAuth's Innovation Labs](https://www.secureauth.com/labs/) donates the [HoneySAP]() and [Pysap]() projects to the OWASP CBAS
-- [October 2022] Martin Gallo joins the leadership team
+- [September 2023] The SAP Internet Research project goes under a complete update and is now called the [SAP Attack Surface Discovery](https://github.com/NO-MONKEY/SAP-AttackSurfaceDiscovery)
+- [September 2023] The OWASP CBAS Roadmap is created to provide a clear view and direction of the different improvements and security areas that will be covered
+- [August 2023] The [OWASP SAPKiln](https://github.com/OWASP/SAPKiln) project, lead by [Alex Devassy](https://www.linkedin.com/in/alex-devassy-358421138), is added under the umbrella of the OWASP CBAS
+- [August 2023] [Alex Devassy](https://www.linkedin.com/in/alex-devassy-358421138) joins the OWASP CBAS team
+- [July 2023] [Julian Petersohn](https://www.linkedin.com/in/julian-petersohn-02807b94/) contributes and takes lead on the SAP Internet Research project
+- [July 2023] [Julian Petersohn](https://www.linkedin.com/in/julian-petersohn-02807b94/) joins the OWASP CBAS team
+- [October 2022] [SecureAuth's Innovation Labs](https://www.secureauth.com/labs/) donates the [HoneySAP](https://github.com/OWASP/HoneySAP) and [Pysap](https://github.com/OWASP/pysap) projects to the OWASP CBAS
+- [October 2022] [Martin Gallo](https://www.linkedin.com/in/mgallo/) joins the leadership team
 - [September 2020] Joris Van De Vis ([@jvis](https://twitter.com/jvis)) donates the SAP Internet Research project to the OWASP CBAS
 - [June 2020] [NO MONKEY](https://www.no-monkey.com) donates the [SAP Security Matrix](https://www.no-monkey.com/sap-security-matrix/) to the OWASP CBAS
-- [June 2020] OWASP CBAS created by Waseem Ajrab ([@waseem_ajrab](https://twitter.com/waseem_ajrab)) and [Marco Hammel](https://www.linkedin.com/in/marcohammel/) to provide a central location to address areas for SAP security  
+- [June 2020] OWASP CBAS created by [Waseem Ajrab](www.linkedin.com/in/waseemajrab) and [Marco Hammel](https://www.linkedin.com/in/marcohammel/) to provide a central location to address areas for SAP security  
 
 
 # Events
@@ -23,4 +29,4 @@ tags: cbas
 
 # Roadmap
 
-# __COMING SOON__
+<img src="assets/images/OWASP_CBAS_Roadmap.jpg" width=""/>
