@@ -30,5 +30,6 @@ A live update of contributors can be found under each area of the OWASP Core Bus
 - [SAP Security Verification Standard](https://github.com/NO-MONKEY/CBAS-SAP-SecurityMaturityModel/graphs/contributors)
 - [pySAP](https://github.com/OWASP/pysap/graphs/contributors)
 - [HoneySAP](https://github.com/OWASP/HoneySAP/graphs/contributors)
+- [SAP Attack Surface Discovery](https://github.com/SecuritySilverbacks/SAP-AttackSurfaceDiscovery/graphs/contributors)
+- [SAPKiln](https://github.com/OWASP/SAPKiln/graphs/contributors)
 - SAP Security Aptitude assessment
-- SAP Internet Research
