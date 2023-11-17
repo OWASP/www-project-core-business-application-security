@@ -2,7 +2,7 @@
 title: Contribution
 layout: null
 tab: true
-order: 9
+order: 8
 tags: cbas
 ---
 # CBAS Contribution Guidelines
