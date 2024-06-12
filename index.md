@@ -74,11 +74,6 @@ The project aims to help organizations and security professionals to identify an
 
 [CHECK IT OUT](https://github.com/NO-MONKEY/SAP-AttackSurfaceDiscovery)
 
-## Leaders
-- [Waseem Ajrab](mailto:cbas@advisory.no-monkey.com)
-- [Marco Hammel](mailto:cbas@advisory.no-monkey.com)
-- [Martin Gallo](mailto:cbas@advisory.no-monkey.com)
-
 
 ## News and Updates Channels
 
