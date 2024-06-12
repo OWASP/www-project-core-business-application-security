@@ -5,32 +5,31 @@ tab: true
 order: 7
 tags: cbas
 ---
+# CBAS Supporters and Contributors
 
-# Contributors
-With the help and support from the security community, we are continuously adding projects and tools that support the CBAS project.
+We are grateful for all our supporters and contributors that have spent a significant time working on the OWASP Core Business Application Security project.
 
-The projects and tools support the different areas addressed in the CBAS project. The structure for the CBAS project is as follows:
+We are continuously updating and improving the different parts of the project. All contributions are welcome. [Get in touch with us to know more!](mailto:cbas@advisory.no-monkey.com)
 
+## Supporters (Time and Donation) - Organizations
 
-├ __CBAS-SAP__                    
-   ├── *[Security Aptitude Assessment](https://github.com/NO-MONKEY/CBAS-SAP-SecurityAptitudeAssessment) (SAA)*     
-   ├── *[Security Maturity Model](https://github.com/NO-MONKEY/CBAS-SAP-SecurityMaturityModel) (SMM)*         
-   ├── *[SAP Internet Research](https://github.com/NO-MONKEY/CBAS-SAPInternetResearch)*
-   ├── *[HoneySAP](https://github.com/OWASP/HoneySAP)*
-   └── *[pysap](https://github.com/OWASP/pysap)*
+Organizations who have allowed contributors and/or donated a significant time and material on working on the different projects within the OWASP Core Business Application Security. Supporters contributing time and material will be evaluated at the sole discretion of the project leaders.
 
-*Anyone is welcome to contribute with their projects and tools to enhance the different areas of the CBAS project; [contact us](mailto:cbas@advisory.no-monkey.com) and tell us more*
+[![](assets/images/NO_MONKEY.png)](https://www.no-monkey.com)
 
-### Core Business Application Security Project
+[![](assets/images/secureauth.png)](https://www.secureauth.com/labs/)
 
-- Waseem Ajrab - [NO MONKEY](https://www.no-monkey.com/) - Project Leader
-- Marco Hammel - [NO MONKEY](https://www.no-monkey.com/) - Project Leader
+## Supporters (Time and Donation) - Individuals
 
+- Joris van de Vis - [Protect4s](https://protect4s.com/) - [SAP Internet Research Project](https://github.com/NO-MONKEY/CBAS/blob/master/SAP_Internet_Research.md)
 
-### SAP Internet Research Project
+## Contributors
 
-The SAP Internet Research project aims to help organization and security professionals to identify and discover open SAP services facing the internet. This allows individuals to further test these services for any potential threat that might affect SAP applications in their organizations. (More on how to conduct the tests in your organizations can be found [here](https://github.com/NO-MONKEY/CBAS/blob/master/SAP_Internet_Research.md))
+A live update of contributors can be found under each area of the OWASP Core Business Application Security project.
 
-- Joris van de Vis - [Protect4s](https://protect4s.com/) - Project Owner
-- Waseem Ajrab - [NO MONKEY](https://www.no-monkey.com/) - Contributor
-- Marco Hammel - [NO MONKEY](https://www.no-monkey.com/) - Contributor
+- [SAP Security Verification Standard](https://github.com/NO-MONKEY/CBAS-SAP-SecurityMaturityModel/graphs/contributors)
+- [pySAP](https://github.com/OWASP/pysap/graphs/contributors)
+- [HoneySAP](https://github.com/OWASP/HoneySAP/graphs/contributors)
+- [SAP Attack Surface Discovery](https://github.com/SecuritySilverbacks/SAP-AttackSurfaceDiscovery/graphs/contributors)
+- [SAPKiln](https://github.com/OWASP/SAPKiln/graphs/contributors)
+- SAP Security Aptitude assessment

@@ -2,6 +2,8 @@
 
 ![Incubator Project](/assets/images/common/owasp_level_incubator.svg){:width="55px"}
 
+<img src="assets/images/logo.png" width="55"/>
+
 * Version 0.1
 
 * <i class="fas fa-egg" style="font-size: 1.2em;  color:#233e81;"></i><span style="font-size:1.0em;padding-left:12px;">Incubator Project</span>
@@ -14,7 +16,7 @@
 * <i class="fas fa-user-secret" style="font-size: 1.2em; color:#233e81;"></i><span style="font-size:1.0em;padding-left:12px;">Breaker</span>
 
 ### Project Repository
-* [Github Repo](https://github.com/NO-MONKEY/CBAS-SAP)
+* [Github Repo](https://github.com/OWASP/www-project-core-business-application-security/tree/master)
 
 ### Join Us
 Anyone interested in supporting, contributing or giving feedback join us in our discord channel.

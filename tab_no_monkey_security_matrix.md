@@ -13,8 +13,7 @@ The NO MONKEY Security Matrix combines elements of the security operational func
 
 ![](assets/images/NM-Security-Matrix-new.png)
 
-
-## IPAC model
+## SAP Operational Areas
 
 NO MONKEY has come up with the below four security areas to focus the security topics to a core business application. The areas are:
 
@@ -22,7 +21,7 @@ NO MONKEY has come up with the below four security areas to focus the security t
 >
 > - **Platform:** Focuses on vulnerabilities, hardening, and configuration of the core business applications. It includes reviewing security features and weaknesses in software operations, setup, and security management.
 >
-> - **Access:** Focuses on access control, user authorizations measures, and core business application methodologies.
+> - **Access:** Focuses on access control, user authorizations measures, and methodologies of SAP software.
 >
 > - **Customization:** Focuses on the customization of core business applications, including change management, custom code, business customizing, legacy interfaces, and add-ons.
 
@@ -37,5 +36,5 @@ The Security Matrix serves as a starting point to:
 Below is a list of projects that benefit from the NO MONKEY Security Matrix:
 
 - [CBAS - Security Aptitude Assessment](https://github.com/NO-MONKEY/CBAS-SAP-SecurityAptitudeAssessment)
-- [CBAS - Security Maturity Model](https://github.com/NO-MONKEY/CBAS-SAP-SecurityMaturityModel)
+- [CBAS - SAP Security Verification Standard](https://github.com/NO-MONKEY/CBAS-SAP-SecurityVerificationStandard)
 - [SAP Internet Research](https://github.com/NO-MONKEY/CBAS-SAPInternetResearch)

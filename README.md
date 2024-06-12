@@ -1,10 +1,3 @@
----
-layout: col-sidebar
-title: OWASP Core Business Application Security
-tags: cbas
-level: 2
-pitch: A very brief, one-line description of your project
----
 
 ## OWASP CBAS Project Structure
 <img src="assets/images/OWASP_CBAS_Roadmap.jpg" width=""/>
@@ -36,9 +29,9 @@ The [NO MONKEY Security Matrix](https://www.no-monkey.com/sap-security-matrix/) 
 
 Benefits and the usage of the security matrix is listed under each project of the CBAS-SAP.
 
-![](assets/images/NM-Security-Matrix-new.png)
+![](assets/images/NM_Security_Matrix.svg)
 
-[CHECK IT OUT](https://github.com/NO-MONKEY/CBAS-SAP/blob/master/No_MONKEY_Security_Matrix.md)   
+[CHECK IT OUT](https://www.no-monkey.com/sap-security-matrix/)   
 
 ## SAP Security Verification Standard
 
@@ -70,7 +63,14 @@ SAPKiln is an open-source GUI tool designed to empower security researchers in c
 
 ## SAP Attack Surface Discovery
 
+The project aims to help organizations and security professionals to identify and discover open SAP services through the use of different network scanning techniques. This allows individuals to further test these services for any potential threat that might affect SAP applications in their organizations.
+
 [CHECK IT OUT](https://github.com/NO-MONKEY/SAP-AttackSurfaceDiscovery)
+
+## Leaders
+- [Waseem Ajrab](mailto:cbas@advisory.no-monkey.com)
+- [Marco Hammel](mailto:cbas@advisory.no-monkey.com)
+- [Martin Gallo](mailto:cbas@advisory.no-monkey.com)
 
 
 ## News and Updates Channels
