@@ -70,6 +70,8 @@ SAPKiln is an open-source GUI tool designed to empower security researchers in c
 
 ## SAP Attack Surface Discovery
 
+The project aims to help organizations and security professionals to identify and discover open SAP services through the use of different network scanning techniques. This allows individuals to further test these services for any potential threat that might affect SAP applications in their organizations.
+
 [CHECK IT OUT](https://github.com/NO-MONKEY/SAP-AttackSurfaceDiscovery)
 
 
