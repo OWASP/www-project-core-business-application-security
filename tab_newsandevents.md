@@ -10,6 +10,9 @@ tags: cbas
 # News
 
 - [October 2024] [usd AG](https://www.usd.de/) has contributed [sncscan](https://github.com/SecuritySilverbacks/sncscan) to the OWASP CBAS
+- [October 2023] [Jonathan Stross](https://www.linkedin.com/in/jonathan-stross-4aa330170/) has joined as contributor
+- [October 2024] [Nicolas Schickert](https://www.linkedin.com/in/nicolas-schickert/) has joined as contributor and author of [sncscan](https://github.com/SecuritySilverbacks/sncscan)
+- [October 2023] [Gaurav Singh](https://www.linkedin.com/in/gauravsingh14/) has joined as contributor to the SAP Security Verification Standard Project
 - [September 2023] The SAP Internet Research project goes under a complete update and is now called the [SAP Attack Surface Discovery](https://github.com/NO-MONKEY/SAP-AttackSurfaceDiscovery)
 - [September 2023] The OWASP CBAS Roadmap is created to provide a clear view and direction of the different improvements and security areas that will be covered
 - [August 2023] The [OWASP SAPKiln](https://github.com/OWASP/SAPKiln) project, lead by [Alex Devassy](https://www.linkedin.com/in/alex-devassy-358421138), is added under the umbrella of the OWASP CBAS
