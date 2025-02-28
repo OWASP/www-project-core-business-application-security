@@ -22,6 +22,7 @@ Organizations who have allowed contributors and/or donated a significant time an
 
 <a href="https://pathlock.com/"><img src="assets/images/Pathlock_Logo.png" alt="drawing" style="width:400px;"/>
 
+<a href="https://www.usd.de"><img src="assets/images/usd_Logo.png" alt="drawing" style="width:400px;"/>
 
 
 ## Supporters (Time and Donation) - Individuals
