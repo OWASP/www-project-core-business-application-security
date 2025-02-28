@@ -31,16 +31,20 @@ We create tools that emulate advanced threat tactics, techniques, and procedures
 
 Understanding your SAP attack surface enables you to better prioritze and apply security controls that help mature your SAP security posture. The below tools are designed to identify and provide you with possible threats and attack vectors that your SAP environment might posses.
 
-- [SAP Attack Surface Discovery](https://github.com/NO-MONKEY/SAP-AttackSurfaceDiscovery)
+- [SAP Attack Surface Discovery](https://github.com/SecuritySilverbacks/SAP-AttackSurfaceDiscovery)
 - [SAPKiln](https://github.com/OWASP/SAPKiln)
 
 ### Security Posture Validation & Baseline Controls
 
 Validating and enforcing secure configurations and controls in SAP, we offer frameworks for continuous monitoring of system integrity against best practices.
 
-- [SAP Security Verification Standard](https://github.com/NO-MONKEY/CBAS-SAP-SecurityMaturityModel)
+- [SAP Security Verification Standard](https://github.com/SecuritySilverbacks/CBAS-SAP-SecurityVerificationStandard)
 
-
+## Leaders
+- [Waseem Ajrab](mailto:waseem.ajrab@owasp.org)
+- [Marco Hammel](mailto:marco.hammel@no-monkey.com)
+- [Martin Gallo](mailto:cbas@advisory.no-monkey.com)
+- [Julian Petersohn](mailto:julian.petersohn@owasp.org)
 
 ## News and Updates Channels
 
