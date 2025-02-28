@@ -9,6 +9,7 @@ tags: cbas
 
 # News
 
+- [October 2024] [usd AG](https://www.usd.de/) has contributed [sncscan](https://github.com/SecuritySilverbacks/sncscan) to the OWASP CBAS
 - [September 2023] The SAP Internet Research project goes under a complete update and is now called the [SAP Attack Surface Discovery](https://github.com/NO-MONKEY/SAP-AttackSurfaceDiscovery)
 - [September 2023] The OWASP CBAS Roadmap is created to provide a clear view and direction of the different improvements and security areas that will be covered
 - [August 2023] The [OWASP SAPKiln](https://github.com/OWASP/SAPKiln) project, lead by [Alex Devassy](https://www.linkedin.com/in/alex-devassy-358421138), is added under the umbrella of the OWASP CBAS
@@ -24,9 +25,14 @@ tags: cbas
 
 # Events
 
-# __COMING SOON__
-
+- [November 2024] Talk at German OWASP Day - [SAP from an Attacker's Perspective – Common Vulnerabilities and Pitfalls](https://media.ccc.de/v/god2024-56278-sap-from-an-attackers-pers)
+- [November 2024] OWASP Frankfurt Chapter Meeting #69 - Presentation of the OWASP CBAS project
+- [September 2024] Talk at BSides Frankfurt - [Identify, Exploit, & Defend SAP Environments - Showcasing the True Power of Open-Source](https://youtu.be/R7E6pwr0EGU?si=a-CBzTcCw4jkgrfo)
 
 # Roadmap
 
-<img src="assets/images/OWASP_CBAS_Roadmap.jpg" width=""/>
+- [pysap] migration to Python3
+- [honeySAP] migration to python3
+- [honeySAP] advance with regards for detection engineering
+- [SAP Attack Surface Discovery] add missing SAP Services (SAP HANA, SAP NetWeaver Java, etc)
+- [SAP Attack Surface Discovery] increase usablity by adding a web interface
