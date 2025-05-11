@@ -3,7 +3,7 @@ title: newsandevents
 displaytext: News and Events
 layout: null
 tab: true
-order: 6
+order: 4
 tags: cbas
 ---
 
@@ -23,7 +23,7 @@ tags: cbas
 - [October 2022] [Martin Gallo](https://www.linkedin.com/in/mgallo/) joins the leadership team
 - [September 2020] Joris Van De Vis ([@jvis](https://twitter.com/jvis)) donates the SAP Internet Research project to the OWASP CBAS
 - [June 2020] [NO MONKEY](https://www.no-monkey.com) donates the [SAP Security Matrix](https://www.no-monkey.com/sap-security-matrix/) to the OWASP CBAS
-- [June 2020] OWASP CBAS created by [Waseem Ajrab](www.linkedin.com/in/waseemajrab) and [Marco Hammel](https://www.linkedin.com/in/marcohammel/) to provide a central location to address areas for SAP security  
+- [June 2020] OWASP CBAS created by [Waseem Ajrab](www.linkedin.com/in/waseemajrab) and [Marco Hammel](https://www.linkedin.com/in/marcohammel/) to provide a central location to address areas for SAP security
 
 
 # Events
