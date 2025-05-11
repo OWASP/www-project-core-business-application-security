@@ -25,6 +25,7 @@ Understanding your SAP attack surface enables you to better prioritze and apply 
 
 - [SAP Attack Surface Discovery](https://github.com/SecuritySilverbacks/SAP-AttackSurfaceDiscovery)
 - [SAPKiln](https://github.com/OWASP/SAPKiln)
+- [sncscan](https://github.com/SecuritySilverbacks/sncscan)
 
 ### Security Posture Validation & Baseline Controls
 
