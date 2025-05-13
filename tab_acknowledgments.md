@@ -2,7 +2,7 @@
 title: Acknowledgments
 layout: null
 tab: true
-order: 7
+order: 5
 tags: cbas
 ---
 # CBAS Supporters and Contributors
