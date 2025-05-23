@@ -27,7 +27,7 @@ Organizations who have allowed contributors and/or donated a significant time an
 
 ## Supporters (Time and Donation) - Individuals
 
-- Joris van de Vis - [Protect4s](https://protect4s.com/) - [SAP Internet Research Project](https://github.com/NO-MONKEY/CBAS/blob/master/SAP_Internet_Research.md)
+- Joris van de Vis - [SecurityBridge](https://securitybridge.com/) - [SAP Internet Research Project](https://github.com/NO-MONKEY/CBAS/blob/master/SAP_Internet_Research.md)
 
 ## Contributors
 
