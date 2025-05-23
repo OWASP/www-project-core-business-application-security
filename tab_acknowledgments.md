@@ -16,13 +16,32 @@ We are continuously updating and improving the different parts of the project. A
 Organizations who have allowed contributors and/or donated a significant time and material on working on the different projects within the OWASP Core Business Application Security. Supporters contributing time and material will be evaluated at the sole discretion of the project leaders.
 
 
-<a href="https://www.no-monkey.com"><img src="assets/images/NO_MONKEY.png" alt="drawing" style="width:600px;"/>
-
-<a href="https://www.secureauth.com/labs/"><img src="assets/images/secureauth.png" alt="drawing" style="width:400px;"/>
-
-<a href="https://pathlock.com/"><img src="assets/images/Pathlock_Logo.png" alt="drawing" style="width:400px;"/>
-
-<a href="https://www.usd.de"><img src="assets/images/usd_Logo.png" alt="drawing" style="width:400px;"/>
+<table style="border: none;">
+  <tr>
+    <td style="border: none; padding: 10px;">
+      <a href="https://www.no-monkey.com">
+        <img src="assets/images/NO_MONKEY.png" width="250" alt="NO MONKEY">
+      </a>
+    </td>
+    <td style="border: none; padding: 10px;">
+      <a href="https://www.secureauth.com/labs/">
+        <img src="assets/images/secureauth.png" width="250" alt="SecureAuth">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 10px;">
+      <a href="https://pathlock.com/">
+        <img src="assets/images/Pathlock_Logo.png" width="250" alt="Pathlock">
+      </a>
+    </td>
+    <td style="border: none; padding: 10px;">
+      <a href="https://www.usd.de">
+        <img src="assets/images/usd_Logo.png" width="250" alt="usd AG">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ## Supporters (Time and Donation) - Individuals
