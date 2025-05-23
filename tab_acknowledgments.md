@@ -16,28 +16,28 @@ We are continuously updating and improving the different parts of the project. A
 Organizations who have allowed contributors and/or donated a significant time and material on working on the different projects within the OWASP Core Business Application Security. Supporters contributing time and material will be evaluated at the sole discretion of the project leaders.
 
 
-<table style="width: 100%; border-collapse: collapse; border: none;">
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td style="width: 50%; text-align: center; vertical-align: middle; padding: 10px;">
+    <td style="width: 50%; text-align: center; padding: 20px;">
       <a href="https://www.no-monkey.com">
-        <img src="assets/images/NO_MONKEY.png" style="max-width: 100%; height: auto;" alt="NO MONKEY">
+        <img src="assets/images/NO_MONKEY.png" style="max-height: 100px; width: auto;" alt="NO MONKEY">
       </a>
     </td>
-    <td style="width: 50%; text-align: center; vertical-align: middle; padding: 10px;">
+    <td style="width: 50%; text-align: center; padding: 20px;">
       <a href="https://www.secureauth.com/labs/">
-        <img src="assets/images/secureauth.png" style="max-width: 100%; height: auto;" alt="SecureAuth">
+        <img src="assets/images/secureauth.png" style="max-height: 100px; width: auto;" alt="SecureAuth">
       </a>
     </td>
   </tr>
   <tr>
-    <td style="text-align: center; vertical-align: middle; padding: 10px;">
+    <td style="text-align: center; padding: 20px;">
       <a href="https://pathlock.com/">
-        <img src="assets/images/Pathlock_Logo.png" style="max-width: 100%; height: auto;" alt="Pathlock">
+        <img src="assets/images/Pathlock_Logo.png" style="max-height: 100px; width: auto;" alt="Pathlock">
       </a>
     </td>
-    <td style="text-align: center; vertical-align: middle; padding: 10px;">
+    <td style="text-align: center; padding: 20px;">
       <a href="https://www.usd.de">
-        <img src="assets/images/usd_Logo.png" style="max-width: 100%; height: auto;" alt="usd AG">
+        <img src="assets/images/usd_Logo.png" style="max-height: 100px; width: auto;" alt="usd">
       </a>
     </td>
   </tr>
