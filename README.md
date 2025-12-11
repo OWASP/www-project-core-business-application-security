@@ -35,8 +35,6 @@ Validating and enforcing secure configurations and controls in SAP, we offer fra
 
 ## Leaders
 - [Waseem Ajrab](mailto:waseem.ajrab@owasp.org)
-- [Marco Hammel](mailto:marco.hammel@no-monkey.com)
-- [Martin Gallo](mailto:cbas@advisory.no-monkey.com)
 - [Julian Petersohn](mailto:julian.petersohn@owasp.org)
 
 ## News and Updates Channels
