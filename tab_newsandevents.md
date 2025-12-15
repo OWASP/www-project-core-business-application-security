@@ -9,6 +9,9 @@ tags: cbas
 
 # News
 
+- [September 2025] Kickoff for the [SAP Pentest Playbook](https://playbook.securitysilverbacks.com) with a small group organized by [Markus Rest](https://www.linkedin.com/in/markus-rest-482863a5/), [Waseem Ajrab](www.linkedin.com/in/waseemajrab) & [Julian Petersohn](https://www.linkedin.com/in/julian-petersohn-02807b94/)
+- [September 2025] [Markus Rest](https://www.linkedin.com/in/markus-rest-482863a5/) has joined as contributor
+- [March 2025] [Jonathan Stross](https://www.linkedin.com/in/jonathan-stross-4aa330170/) and [Julian Petersohn](https://www.linkedin.com/in/julian-petersohn-02807b94/) have published their research for the [SAP History fail](https://github.com/SecuritySilverbacks/sap-security-research/blob/main/papers/SAP_History_Fail_Why_XOR_is_Still_Not_Secure.pdf) Vulnerability including a [PoC](https://github.com/SecuritySilverbacks/sap-security-research/tree/main/CVE-2025-0055)
 - [October 2024] [usd AG](https://www.usd.de/) has contributed [sncscan](https://github.com/SecuritySilverbacks/sncscan) to the OWASP CBAS
 - [October 2023] [Jonathan Stross](https://www.linkedin.com/in/jonathan-stross-4aa330170/) has joined as contributor
 - [October 2024] [Nicolas Schickert](https://www.linkedin.com/in/nicolas-schickert/) has joined as contributor and author of [sncscan](https://github.com/SecuritySilverbacks/sncscan)
@@ -28,12 +31,17 @@ tags: cbas
 
 # Events
 
+This is a comprehensive list of talks/presentations that have been provided by the members of the OWASP CBAS Project. If possible, links to recodings & Slides are added based on their availability.
+
+- [December 2025] Talk at [BSides Dresden](https://bsidesdresden.com/) - Uncovering SAP BTP Attack Vectors, Before Someone Else Does!
+- [June 2025] Talk at [Security BSides Athens](https://2025.bsidesath.gr/) - Identify, Exploit, & Defend SAP Environments - Showcasing the True Power of Open-Source
 - [November 2024] Talk at German OWASP Day - [SAP from an Attacker's Perspective – Common Vulnerabilities and Pitfalls](https://media.ccc.de/v/god2024-56278-sap-from-an-attackers-pers)
 - [November 2024] OWASP Frankfurt Chapter Meeting #69 - Presentation of the OWASP CBAS project
 - [September 2024] Talk at BSides Frankfurt - [Identify, Exploit, & Defend SAP Environments - Showcasing the True Power of Open-Source](https://youtu.be/R7E6pwr0EGU?si=a-CBzTcCw4jkgrfo)
 
 # Roadmap
 
+- [SAP Pentest Playbook] add content on BTP, Netweaver Java, SAP HANA DB, etc
 - [pysap] migration to Python3
 - [honeySAP] migration to python3
 - [honeySAP] advance with regards for detection engineering
