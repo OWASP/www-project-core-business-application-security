@@ -12,6 +12,7 @@ We create tools that emulate advanced threat tactics, techniques, and procedures
 - [HoneySAP: SAP low-interaction honeypot](#honeysap-sap-low-interaction-honeypot)
 - [pysap - Python library for crafting SAP's network protocols packets](#pysap---python-library-for-crafting-saps-network-protocols-packets)
 - [SAPKiln](#sapkiln)
+- [SAP Pentest Playbook](#sap-pentest-playbook)
 
 ## HoneySAP: SAP Low-interaction honeypot
 
@@ -95,3 +96,22 @@ Powered :battery: by saplogon.exe and SAP scripting in its backend, SAPKiln exec
 * OS Commands Execution - RSBDCOS0
 * OS Commands Execution - SAPXPG
 * Enumerate Instances for Lateral Movement
+
+## SAP Pentest Playbook
+[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
+The SAP Pentest Playbook is a community-driven, open-source resource that documents practical techniques, tools, and methodologies for conducting penetration tests on SAP systems and landscapes.
+It is part of the [OWASP Core Business Application Security (CBAS)](https://owasp.org/www-project-core-business-application-security/) project and aims to serve as a single, reliable point of reference for SAP security professionals, pentesters, and researchers.
+
+The Playbook consolidates distributed, often outdated or hard-to-find knowledge into a structured and up-to-date guide that covers:
+
+- SAP-specific attack vectors
+- Misconfigurations and “works as designed” behaviors that can be exploited
+- Reconnaissance, exploitation, and post-exploitation techniques
+- Detection and mitigation considerations
+
+> [!WARNING]
+> Disclaimer:
+> Make sure you have the appropriate permissions to actively scan and test applications. Without doing so, you might face legal implications
+
+[SAP Pentest Playbook Project Page](https://playbook.securitysilverbacks.com/)
