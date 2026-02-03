@@ -49,7 +49,7 @@ Organizations who have allowed contributors and/or donated a significant time an
 ## Supporters (Time and Donation) - Individuals
 
 - Joris van de Vis - [SecurityBridge](https://securitybridge.com/) - [SAP Internet Research Project](https://github.com/NO-MONKEY/CBAS/blob/master/SAP_Internet_Research.md)
-- [Marco Hammel](mailto:marco.hammel@agimo.eu) - Contributor
+- [Marco Hammel](mailto:codehorse@agimo.eu) - Contributor
 - [Martin Gallo](mailto:cbas@advisory.no-monkey.com) - HoneySAP & pySAP
   
 ## Contributors
