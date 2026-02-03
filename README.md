@@ -34,6 +34,11 @@ Validating and enforcing secure configurations and controls in SAP, we offer fra
 
 - [SAP Security Verification Standard](https://github.com/SecuritySilverbacks/CBAS-SAP-SecurityVerificationStandard)
 
+### Research
+A curated collection of findings, PoCs, and tools for advancing SAP Security
+
+- [OWASP CBAS - SAP Security Research Project Page](https://github.com/SecuritySilverbacks/sap-security-research)
+
 ## Leaders
 - [Waseem Ajrab](mailto:waseem.ajrab@owasp.org)
 - [Julian Petersohn](mailto:julian.petersohn@owasp.org)
