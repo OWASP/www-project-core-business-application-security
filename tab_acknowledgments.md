@@ -9,7 +9,7 @@ tags: cbas
 
 We are grateful for all our supporters and contributors that have spent a significant time working on the OWASP Core Business Application Security project.
 
-We are continuously updating and improving the different parts of the project. All contributions are welcome. [Get in touch with us to know more!](mailto:cbas@advisory.no-monkey.com)
+We are continuously updating and improving the different parts of the project. All contributions are welcome. [Get in touch with us to know more!](https://discord.gg/B6mQ3a3tbU)
 
 ## Supporters (Time and Donation) - Organizations
 
@@ -49,7 +49,7 @@ Organizations who have allowed contributors and/or donated a significant time an
 ## Supporters (Time and Donation) - Individuals
 
 - Joris van de Vis - [SecurityBridge](https://securitybridge.com/) - [SAP Internet Research Project](https://github.com/NO-MONKEY/CBAS/blob/master/SAP_Internet_Research.md)
-- [Marco Hammel](mailto:waseem.ajrab@no-monkey.com) - Contributor
+- [Marco Hammel](mailto:codehorse@agimo.eu) - Contributor
 - [Martin Gallo](mailto:cbas@advisory.no-monkey.com) - HoneySAP & pySAP
   
 ## Contributors
