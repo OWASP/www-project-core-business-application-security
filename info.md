@@ -22,9 +22,8 @@
 Anyone interested in supporting, contributing or giving feedback join us in our discord channel.
 * [Discord Channel](https://discord.gg/X8ZVSfH)
 
-### Governance
-* [CBAS Governance model](https://github.com/NO-MONKEY/CBAS-SAP/blob/master/GOVERNANCE.md)
-* [Code of Conduct](https://github.com/NO-MONKEY/CBAS-SAP/blob/master/CODE_OF_CONDUCT.md)
+### Code of Conduct
+* [Code of Conduct](https://github.com/OWASP/www-project-core-business-application-security/CODE_OF_CONDUCT.md)
 
 ### License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="./assets/images/creativecommons_by-sa_4.0_88x31.png" /></a>
