@@ -1,0 +1,50 @@
+audience:
+  - breaker
+  - builder
+  - defender
+leaders:
+  - name: Waseem Ajrab
+    email: waseem.ajrab@owasp.org
+    github: default-eshu
+  - name: Marco Hammel
+    email: maroc.hammel@no-monkey.com
+  - name: Martin Gallo
+    email: cbas@advisory.no-monkey.com
+    github: martingalloar
+  - name: Julian Petersohn
+    email: julian.petersohn@owasp.org
+level: 2
+license:
+  - CC-BY-SA-4.0
+  - GPL-2.0
+  - GPL-3.0
+name: OWASP Core Business Application Security
+pitch: A very brief, one-line description of your project
+repositories:
+  - name: www-project-core-business-application-security
+    url: https://github.com/OWASP/www-project-core-business-application-security
+    description: OWASP Foundation Web Repository
+  - name: CBAS-SAP
+    url: https://github.com/NO-MONKEY/CBAS-SAP
+    description: Core Business Application Security - SAP
+  - name: CBAS-SAP-SecurityAptitudeAssessment
+    url: https://github.com/NO-MONKEY/CBAS-SAP-SecurityAptitudeAssessment
+    description: SAP Security Aptitude Assessment and Analysis
+  - name: HoneySAP
+    url: https://github.com/NO-MONKEY/HoneySAP
+    description: 'HoneySAP: SAP Low-interaction research honeypot'
+  - name: log4j_use_in_sap
+    url: https://github.com/NO-MONKEY/log4j_use_in_sap
+    description: Some findings about where Log4J might be in use in SAP products
+  - name: play.backdoorsandbreachesForSAP.com
+    url: https://github.com/NO-MONKEY/play.backdoorsandbreachesForSAP.com
+    description: Dashboard for conducting Backdoors and Breaches sessions with an deck for SAP over Zoom.
+  - name: SecurityInvestigations
+    url: https://github.com/NO-MONKEY/SecurityInvestigations
+    description: repository of responsibly disclosed security findings and investigations of NO MONKEY
+tags:
+  - cbas
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-core-business-application-security
