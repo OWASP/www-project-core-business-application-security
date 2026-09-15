@@ -17,15 +17,14 @@ We create tools that emulate advanced threat tactics, techniques, and procedures
 
 - [HoneySAP: SAP low-interaction honeypot](https://github.com/OWASP/HoneySAP)
 - [pysap - Python library for crafting SAP's network protocols packets](https://github.com/OWASP/pysap)
-- [SAPKiln](https://github.com/OWASP/SAPKiln)
 - [SAP Pentest Playbook](https://playbook.securitysilverbacks.com/)
+- [SAPMAP](https://github.com/SecuritySilverbacks/SAPMAP)
 
 ### Attack Surface Management
 
 Understanding your SAP attack surface enables you to better prioritze and apply security controls that help mature your SAP security posture. The below tools are designed to identify and provide you with possible threats and attack vectors that your SAP environment might posses.
 
 - [SAP Attack Surface Discovery](https://github.com/SecuritySilverbacks/SAP-AttackSurfaceDiscovery)
-- [SAPKiln](https://github.com/OWASP/SAPKiln)
 - [sncscan](https://github.com/SecuritySilverbacks/sncscan)
 
 ### Security Posture Validation & Baseline Controls
@@ -33,6 +32,10 @@ Understanding your SAP attack surface enables you to better prioritze and apply 
 Validating and enforcing secure configurations and controls in SAP, we offer frameworks for continuous monitoring of system integrity against best practices.
 
 - [SAP Security Verification Standard](https://github.com/SecuritySilverbacks/CBAS-SAP-SecurityVerificationStandard)
+
+### Archive
+
+- [SAPKiln](https://github.com/OWASP/SAPKiln)
 
 ### Research
 A curated collection of findings, PoCs, and tools for advancing SAP Security

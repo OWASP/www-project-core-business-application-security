@@ -9,6 +9,9 @@ tags: cbas
 
 # News
 
+- [September 2026] Joris Van De Vis ([@jvis](https://twitter.com/jvis)) has contributed the SAPMAP project to OWASP CBAS
+- [September 2026] SAPKiln has been archived / retired due to lack of development and beeing obsolet due to release of SAPMAP
+- [September 2026] OWASP CBAS Community Meetup upfront BSides Frankfurt
 - [September 2025] Kickoff for the [SAP Pentest Playbook](https://playbook.securitysilverbacks.com) with a small group organized by [Markus Rest](https://www.linkedin.com/in/markus-rest-482863a5/), [Waseem Ajrab](www.linkedin.com/in/waseemajrab) & [Julian Petersohn](https://www.linkedin.com/in/julian-petersohn-02807b94/)
 - [September 2025] [Markus Rest](https://www.linkedin.com/in/markus-rest-482863a5/) has joined as contributor
 - [March 2025] [Jonathan Stross](https://www.linkedin.com/in/jonathan-stross-4aa330170/) and [Julian Petersohn](https://www.linkedin.com/in/julian-petersohn-02807b94/) have published their research for the [SAP History fail](https://github.com/SecuritySilverbacks/sap-security-research/blob/main/papers/SAP_History_Fail_Why_XOR_is_Still_Not_Secure.pdf) Vulnerability including a [PoC](https://github.com/SecuritySilverbacks/sap-security-research/tree/main/CVE-2025-0055)
@@ -33,6 +36,7 @@ tags: cbas
 
 This is a comprehensive list of talks/presentations that have been provided by the members of the OWASP CBAS Project. If possible, links to recodings & Slides are added based on their availability.
 
+- [September 2026] OWASP CBAS Community Meetup in Frankfurt
 - [December 2025] Talk at [BSides Dresden](https://bsidesdresden.com/) - Uncovering SAP BTP Attack Vectors, Before Someone Else Does!
 - [June 2025] Talk at [Security BSides Athens](https://2025.bsidesath.gr/) - Identify, Exploit, & Defend SAP Environments - Showcasing the True Power of Open-Source
 - [November 2024] Talk at German OWASP Day - [SAP from an Attacker's Perspective – Common Vulnerabilities and Pitfalls](https://media.ccc.de/v/god2024-56278-sap-from-an-attackers-pers)

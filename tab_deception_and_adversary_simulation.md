@@ -11,8 +11,8 @@ We create tools that emulate advanced threat tactics, techniques, and procedures
 
 - [HoneySAP: SAP low-interaction honeypot](#honeysap-sap-low-interaction-honeypot)
 - [pysap - Python library for crafting SAP's network protocols packets](#pysap---python-library-for-crafting-saps-network-protocols-packets)
-- [SAPKiln](#sapkiln)
 - [SAP Pentest Playbook](#sap-pentest-playbook)
+- [SAPMAP](#sapmap)
 
 ## HoneySAP: SAP Low-interaction honeypot
 
@@ -76,27 +76,6 @@ using SAP's NI, Diag, Enqueue, Router, MS, SNC, IGS, RFC and HDB protocols. In a
 
 * Example scripts to illustrate the use of the different modules and protocols.
 
-## SAPKiln
-![SAPiln Version](https://img.shields.io/badge/1.0-0000?label=Version)
-
-The world :earth_americas: of SAP is very vast and unique. SAP has multiple products to tackle various problems as well as multiple technology platforms such as NetWeaver etc. SAPKiln is an open-source GUI tool :computer: designed to empower security researchers in conducting efficient auditing and penetration testing of SAP systems through SAP Logon/GUI (desktop application). It caters to both experienced SAP professionals and those unfamiliar with the SAP environment, as it streamlines the process of performing security checks with a user-friendly interface:sparkles:.
-
-Powered :battery: by saplogon.exe and SAP scripting in its backend, SAPKiln executes automated checks in the SAP system. The current version (v1.0) boasts a comprehensive array of over 70+ checks :exclamation: divided into 10 modules. Beyond its built-in checks, SAPKiln provides flexibility with dynamic checks, accommodating custom user inputs. By automating security assessments, SAPKiln effectively bridges the knowledge gap for security researchers :cop: compared to SAP domain experts:eyeglasses:.
-
-[SAPKiln Project Page](https://github.com/OWASP/SAPKiln)
-
-### Modules Included
-* Attempt Login with Default SAP Credentials
-* Enumerate for Accessible T-Codes
-* Enumerate for Accessible Tables
-* Enumerate for Usage of SAP_ALL Profile
-* Enumerate Password Policies
-* Enumerate Weak Password Hashes (Users)
-* Enumerate Weak Password Hashes (Hashes)
-* OS Commands Execution - RSBDCOS0
-* OS Commands Execution - SAPXPG
-* Enumerate Instances for Lateral Movement
-
 ## SAP Pentest Playbook
 [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -115,3 +94,28 @@ The Playbook consolidates distributed, often outdated or hard-to-find knowledge 
 > Make sure you have the appropriate permissions to actively scan and test applications. Without doing so, you might face legal implications
 
 [SAP Pentest Playbook Project Page](https://playbook.securitysilverbacks.com/)
+
+## SAPMAP
+
+Like BloodHound for Active Directory, but for SAP.
+
+SAPMAP is an offensive security and attack-path mapping tool for SAP landscapes - similar in concept to BloodHound for Active Directory.
+
+The goal of SAPMAP is to make complex SAP trust relationships and attack paths visible. It discovers SAP systems, maps connections between them, identifies potential weaknesses, and helps security teams understand how an attacker could move through an SAP landscape.
+
+Rather than looking at individual SAP systems in isolation, SAPMAP focuses on the entire landscape and the relationships between SAP applications, infrastructure, credentials, RFC connections, SAP BTP, SAP Cloud Connector, and the underlying operating systems.
+
+### What SAPMAP includes
+
+* SAP landscape discovery and enumeration - identify SAP systems, services, clients, databases, SAPControl endpoints, and exposed interfaces.
+* Attack-path visualization - graph SAP systems and their RFC/trust relationships to highlight possible lateral movement paths.
+* Security configuration testing - identify weak Gateway, Message Server, authentication, and trust configurations.
+* Exploitation capabilities - validate real-world SAP vulnerabilities and misconfigurations during authorized security assessments.
+* Credential and Secure Store analysis - analyze SAP credentials, RFC destinations, Secure Stores, password hashes, and authentication material.
+* Lateral movement - follow RFC, SSH, SAP BTP, Cloud Connector, and other trust relationships across the landscape.
+* Privilege escalation and post-exploitation - assess what an attacker could achieve after compromising an SAP system.
+* SAP BTP and hybrid landscape support - map attack paths between cloud and on-premise SAP environments.
+* Business impact analysis - demonstrate how technical weaknesses could lead to access to sensitive SAP data and business processes.
+* Detection and defense guidance - provide defenders with indicators, detection ideas, and hardening recommendations for the techniques used by SAPMAP.
+
+[SAPMAP Project Page](https://github.com/SecuritySilverbacks/www-project-core-business-application-security)
